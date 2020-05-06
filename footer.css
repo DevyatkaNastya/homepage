@@ -1,0 +1,13 @@
+footer {
+    display: block;
+    height: 50vh;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
